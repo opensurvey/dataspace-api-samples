@@ -1,3 +1,5 @@
+package HmacSample;
+
 import javax.crypto.Mac;
 import javax.crypto.spec.SecretKeySpec;
 import java.util.Base64;
